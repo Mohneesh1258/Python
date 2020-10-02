@@ -1,4 +1,4 @@
-# Python
+# Python - A demo to Python programming language
 
 
 git clone https://github.com/Yonv1943/Python
